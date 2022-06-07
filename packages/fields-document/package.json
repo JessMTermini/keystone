@@ -20,7 +20,7 @@
     ]
   },
   "peerDependencies": {
-    "@keystone-6/core": "^2.0.0"
+    "@keystone-6/core": "^2.0.1"
   },
   "dependencies": {
     "@babel/runtime": "^7.16.3",

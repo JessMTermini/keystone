@@ -1,5 +1,11 @@
 # @keystone-6/core
 
+## 2.0.1
+
+### Patch Changes
+
+- [#7594](https://github.com/keystonejs/keystone/pull/7594) [`f603859cc`](https://github.com/keystonejs/keystone/commit/f603859cc6607327a45c0a519c7a9b6e58e02d6b) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Replaced create item drawer with a page when creating an item from the list view or dashboard.
+
 ## 2.0.0
 
 ### Major Changes
